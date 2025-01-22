@@ -26,10 +26,12 @@ Patches: ReVanced/patches-5.9.0.rvp
 Patches: ReVanced/patches-5.9.0.rvp  
 Patches: ReVanced/patches-5.9.0.rvp  
 Patches: ReVanced/patches-5.9.0.rvp  
+Patches: ReVanced/patches-5.9.0.rvp  
 Patches: ReVanced/patches-5.9.0.rvp    
 Patches: inotia00/patches-5.3.1.rvp  
 Patches: inotia00/patches-5.3.1.rvp  
 Patches: inotia00/patches-5.3.1.rvp  
 Patches: inotia00/patches-5.3.1.rvp  
 Patches: inotia00/patches-5.3.1.rvp  
-Patches: inotia00/patches-5.3.1.rvp              
+Patches: inotia00/patches-5.3.1.rvp  
+Patches: inotia00/patches-5.3.1.rvp                
