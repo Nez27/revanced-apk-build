@@ -1,11 +1,8 @@
-GooglePhotos (arm64-v8a): 7.13.0.716414472  
-GooglePhotos (arm-v7a): 7.13.0.716414472  
 Music (arm64-v8a): 7.29.52  
 Music (arm-v7a): 7.29.52  
 Music-Extended (arm64-v8a): 7.16.53  
 Music-Extended (arm-v7a): 7.16.53  
 YouTube: 19.47.53  
-YouTube-Extended: 19.44.39  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
 Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanced YouTube and YT Music from Play Store  
@@ -28,6 +25,7 @@ Patches: ReVanced/patches-5.9.0.rvp
 Patches: ReVanced/patches-5.9.0.rvp  
 Patches: ReVanced/patches-5.9.0.rvp  
 Patches: ReVanced/patches-5.9.0.rvp  
+Patches: ReVanced/patches-5.9.0.rvp  
 Patches: ReVanced/patches-5.9.0.rvp    
 Patches: inotia00/patches-5.3.1.rvp  
 Patches: inotia00/patches-5.3.1.rvp  
@@ -36,4 +34,5 @@ Patches: inotia00/patches-5.3.1.rvp
 Patches: inotia00/patches-5.3.1.rvp  
 Patches: inotia00/patches-5.3.1.rvp  
 Patches: inotia00/patches-5.3.1.rvp  
-Patches: inotia00/patches-5.3.1.rvp                  
+Patches: inotia00/patches-5.3.1.rvp  
+Patches: inotia00/patches-5.3.1.rvp                    
